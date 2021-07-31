@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning CSS, and C++
 
-- ☕ I Already know html, php, lua, node.js, c#
+- ☕ I Already know html, php, lua, node.js, c#, python
